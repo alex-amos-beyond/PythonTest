@@ -1,5 +1,9 @@
-def main():
+def times2(a):
+
     print("Hello World!")
+    b = a * 2
+    return b
+
 
 if __name__ == "__main__":
-    main()
+    rslt = times2(3)

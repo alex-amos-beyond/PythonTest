@@ -1,0 +1,34 @@
+---
+-
+    cross_section: 64
+    specific_weight: 0.385
+-
+    cross_section: 100
+    specific_weight: 0.556
+-
+    cross_section: 140
+    specific_weight: 0.663
+-
+    cross_section: 200
+    specific_weight: 0.863
+-
+    cross_section: 280
+    specific_weight: 1.184
+-
+    cross_section: 380
+    specific_weight: 1.548
+-
+    cross_section: 480
+    specific_weight: 1.934
+-
+    cross_section: 600
+    specific_weight: 2.356
+-
+    cross_section: 740
+    specific_weight: 2.9525
+-
+    cross_section: 960
+    specific_weight: 3.7425
+-
+    cross_section: 1200
+    specific_weight: 4.688

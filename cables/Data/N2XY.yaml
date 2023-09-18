@@ -1,0 +1,22 @@
+---
+-
+    cross_section: 95
+    specific_weight: 1.200
+-
+    cross_section: 150
+    specific_weight: 1.800
+-
+    cross_section: 185
+    specific_weight: 2.200
+-
+    cross_section: 240
+    specific_weight: 2.800
+-
+    cross_section: 300
+    specific_weight: 3.300
+-
+    cross_section: 400
+    specific_weight: 4.200
+-
+    cross_section: 500
+    specific_weight: 5.400

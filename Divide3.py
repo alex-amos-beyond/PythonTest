@@ -5,5 +5,7 @@ def divide3(a):
     return b
 
 
+""" 
 if __name__ == "__main__":
     rslt = divide3(9)
+"""
